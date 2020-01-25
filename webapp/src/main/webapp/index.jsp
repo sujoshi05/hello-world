@@ -128,7 +128,7 @@
                    <div class="col-lg-6 col-md-6 col-12">
                      <h1>History</h1>
                      <hr>
-                     <p> Joshi farm is a leading manufacturer and exporter of Cashew & Managog in Wargaon 
+                     <p> Joshi farm is a leading manufacturer and exporter of Cashew & Managog in Wargaon Maharashtra
                         india established in the year2010.Our dedicated team is comprise of about 300 employees of whom 95% are women ,who are highly skilled for this work. Their relentless effort has ensured our
                          compounded aggregate growth rate(CAGR) of over 25% during the last 5 years.</p>
 
